@@ -1,6 +1,6 @@
 - 👋 Hey, I'm Hamid!
 - 📖 I'm a student who's interested in learning more about programming, computer science, and anything that interests me.
-- ⚡ Fun fact: My heart beats super quickly and I undergo a fight-or-flight response when I have to give a fun fact about myself!
+- ⚡ Fun fact: I like to play sports, watch shows, read, and play games.
 
 <!---
 htipu/htipu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
